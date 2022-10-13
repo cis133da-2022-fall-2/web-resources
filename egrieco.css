@@ -1,0 +1,5 @@
+body {
+  height: 100%;
+  background: border-box linear-gradient(crimson, skyblue);
+  font-size: xx-large;
+}
